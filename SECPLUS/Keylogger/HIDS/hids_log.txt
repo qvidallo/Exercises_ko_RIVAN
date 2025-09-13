@@ -1,0 +1,45 @@
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 96396
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Administrator/Downloads/SECPLUS/Keylogger/HIDS/HIDS.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 96396
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Administrator/Downloads/SECPLUS/Keylogger/HIDS/HIDS.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 96396
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Administrator/Downloads/SECPLUS/Keylogger/HIDS/HIDS.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 96396
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Administrator/Downloads/SECPLUS/Keylogger/HIDS/HIDS.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 96396
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Administrator/Downloads/SECPLUS/Keylogger/HIDS/HIDS.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 96396
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Administrator/Downloads/SECPLUS/Keylogger/HIDS/HIDS.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 96396
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Administrator/Downloads/SECPLUS/Keylogger/HIDS/HIDS.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 101948
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe keylogger.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe
+[ALERT] Suspicious keyword found!
+Process: python.exe
+PID: 101948
+CMD: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe keylogger.py
+File: C:\Users\Administrator\AppData\Local\Programs\Python\Python313\python.exe

@@ -1,0 +1,4 @@
+[2025-09-13 14:49:12] === Monitoring Started ===
+[2025-09-13 14:50:07] New file added: protected_files\test.txt
+[2025-09-13 14:50:12] Modified: protected_files\test.txt
+[2025-09-13 14:50:27] Modified: protected_files\test.txt
